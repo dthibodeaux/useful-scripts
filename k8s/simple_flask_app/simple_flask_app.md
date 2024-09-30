@@ -15,3 +15,4 @@
 #
 
 # docker build -f Dockerfile -t <repo/app_name:V1<version> .
+# docker push ironmanthib2/custom-images:tagname
